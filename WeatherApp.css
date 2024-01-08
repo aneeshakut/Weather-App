@@ -6,7 +6,7 @@ body{
     margin: 0%;
     background: #222;
     font-family: 'Open Sans',sans-serif;
-    background-image: "Background_img.jpg";
+    background-image: url("Background_img.jpg");
     font-size: 120%;
 }
 
