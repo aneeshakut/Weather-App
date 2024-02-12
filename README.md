@@ -1,6 +1,6 @@
 <b><i>WeatherApp</i></b> 
 <br>
-Source code of WeatherApp which displays current-time weather conditions of your city of choice using fetch API ,namely
+Source code of WeatherApp which displays real-time weather conditions of your city of choice using fetch API ,namely
 <br>
 1)Temperature in degree celsius
 <br>
@@ -23,6 +23,7 @@ ES6
 API
 <br>
 Link: https://openweathermap.org/api
+<br>
 <br>
 Link to use WeatherApp:
 <br>
