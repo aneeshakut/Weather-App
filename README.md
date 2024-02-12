@@ -20,9 +20,7 @@ Javascript
 <br>
 ES6
 <br>
-API
-<br>
-Link: https://openweathermap.org/api
+Real-time weather API (Link: https://openweathermap.org/api)
 <br>
 <br>
 Link to use WeatherApp:
