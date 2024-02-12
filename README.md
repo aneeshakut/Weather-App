@@ -12,6 +12,7 @@ Source code of WeatherApp which displays real-time weather conditions of your ci
 <br>
 <br>
 Technologies Used:
+<br>
 HTML5
 <br>
 CSS3
