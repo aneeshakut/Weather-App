@@ -23,6 +23,11 @@ let weather={
     }
 };
 
+//Event Listeners
 document.querySelector(".search button").addEventListener("click",function(){
     weather.search();
 });
+document.querySelector('.searchbar').addEventListener("keypress", function(event) {
+  if (event.key === 'Enter') {
+    weather.search();
+  }
