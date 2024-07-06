@@ -19,8 +19,6 @@ CSS3
 <br>
 Javascript
 <br>
-ES6
-<br>
 Real-time weather API (Link: https://openweathermap.org/api)
 <br>
 <br>
