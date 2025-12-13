@@ -1,5 +1,5 @@
 let weather={
-    "apiKey":"7a02e2f64891fea3d2276a3ef693d516",
+    "apiKey":"7a02e2f64891fea3d2276a3ef693d516", //Free API key used for demo
     fetchWeather:function(city){
         fetch("https://api.openweathermap.org/data/2.5/weather?q=" + city + "&units=metric&appid=7a02e2f64891fea3d2276a3ef693d516")
         .then((response)=>response.json())
@@ -32,3 +32,4 @@ document.querySelector('.searchbar').addEventListener("keydown",function(event){
     weather.search();
   }
 });
+
